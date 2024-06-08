@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.icons{
+    font-size: 22px;
+    margin-right: 5px;
+    cursor: pointer;
+}
